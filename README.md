@@ -75,6 +75,7 @@ Other: [ 🗑 🐞 ⚙️ 🔒/🔓 💬 💡 ]
 - [theowiik](https://github.com/theowiik)
 - [String Max](https://github.com/String10)
 - [Abiud Cantu](https://github.com/Abiud)
+- [dood](https://github.com/itsamedood)
 - 🤷‍♀️ - the gitignore lady
 - 👉 you? 👈
 
@@ -169,14 +170,22 @@ config
 - 💾 .json
 - 📗 .csv
 - 📕 .pdf
+- 🗒️ .xml
 
 programming
 
 - 🐚 .sh | .bash
 - 🦩 .swift
-- 💎 .rb
+- 💎 .rb | .spec
 - 🦀 .rs
 - 🦫 .go
+- 🌚 .lua
+- 🧠 .bf
+
+Haxe
+
+- 🔶 .hx
+- 📙 .hxml
 
 python
 
@@ -227,6 +236,7 @@ development
 - 🤐 .7z | .zip | .tar.gz | .tar.xz | .zst
 - 🚀 .yml | .yaml
 - ⚙️ .env | .cfg | .config
+- 🐀 .editorconfig
 
 R
 
@@ -247,6 +257,7 @@ misc
 - 🔒 .lock | bun.lockb
 - 📊 .stats
 - 🔘 .todo
+- 📦 .pkg
 
 images
 
@@ -293,6 +304,7 @@ media
 - 🏛 res | resource | resources
 - 🎞 media
 - 🚰 src | source
+- 🗑️ bin | out
 
 - ⛺️ temp
 - 🧱 components
@@ -303,6 +315,8 @@ media
 - 🛬 landing
 - 🤷‍♂️ 404 | notfound
 - 🫖 418 | teapot
+- 🎛️ commands
+- 🔔 events
 
 - 🔓 authenticated
 - 🔒 unauthenticated
