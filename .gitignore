@@ -1,3 +1,4 @@
 .vsix
+*.vsix
 *icon-theme.json
 __pycache__
